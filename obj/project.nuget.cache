@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxh3SwiWq6Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\OneDrive\\Bureau\\Cours S5\\Gestion_etudiants\\Gestion_etudiants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
